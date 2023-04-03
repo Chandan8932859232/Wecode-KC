@@ -1,0 +1,382 @@
+
+.course-one__single {
+    overflow: hidden;
+}
+@media (max-width: 1280px){
+	.bannerUpcontant {
+    top: 40%;
+}
+}
+@media (max-width: 1200px){
+	.bannerUpcontant {
+    top: 12%;
+}
+}
+@media (max-width: 1080px){
+.form-inline .form-control {
+    display: none !important;
+}
+.bannerUpcontant {
+    top: 10%;
+}
+.banner-one__title {
+    font-size: 60px;
+}
+}
+@media (max-width: 768px){
+.container, .container-md, .container-sm {
+    max-width: 991px;
+}
+}
+@media (max-width: 1024px){
+.banner-one__title {
+    font-size: 70px;
+}
+.bannerUpcontant {
+    top: 33%;
+}
+h2.block-title__title br {
+    display: none;
+}
+
+.video-two__title {
+    font-size: 52px;
+}
+
+.udi-signup_temp {
+    margin-left: 0;
+}
+.how-udemy-works__text b {
+    font-size: 15px;
+}
+.how-udemy-works__sub-title p {
+    font-size: 11px;
+}
+span.how-udemy-works__icon img {
+    width: 40px;
+}
+.how-udemy-works__icon {
+    width: 29px;
+}
+.about-two {
+    padding-top: 20px;
+}
+.block-title__title {
+    font-size: 50px;
+}
+}
+
+@media (max-width: 991px){
+.container, .container-md, .container-sm {
+    max-width: 942px;
+}
+.bannerUpcontant {
+    top: 16%;
+}
+}
+@media (max-width: 960px){
+.bannerUpcontant {
+    top: 33%;
+}
+.container{
+    max-width: 96%;
+}
+}
+@media (max-width: 800px){
+.bannerUpcontant {
+    top: 18%;
+}
+.banner-one__title {
+    font-size: 32px;
+    line-height: 35px;
+}
+form.form-inline.my-2.my-lg-0 {
+    display: none;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 8px;
+    padding-left: 0px;
+    font-size: 14px;
+    margin-right: 10px;
+}
+.banner-one__tag-line {
+    font-size: 28px;
+    margin-bottom: 0px;
+}
+.banner-tex {
+    font-size: 13px;
+    line-height: 18px;
+}
+.block-title__title {
+    font-size: 32px;
+}
+.video-two__title {
+    font-size: 32px;
+}
+.video-two__scratch {
+    top: -29%;
+    left: -12%;
+    width: 400px;
+}
+.heading_s1 h2 {
+    font-size: 32px;
+}
+.video-two {
+    padding: 88px 0;
+}
+.how-udemy-works__icon {
+    width: 100% !important;
+}
+span.how-udemy-works__icon img {
+    width: 40px;
+    margin: 0 auto;
+    display: block;
+}
+span.how-udemy-works__icon.udi.udi-right_talk img {
+    margin-left: 55px;
+}
+span.how-udemy-works__icon.udi.udi-timeless img {
+    margin-left: 48px;
+}
+}
+
+@media (max-width: 767px){
+span.navbar-toggler-icon i {
+    color: #012d68;
+}
+span.how-udemy-works__icon.udi.udi-right_talk img {
+    margin-left: 43px;
+}
+nav.navbar.navbar-expand-md {
+    z-index: 999;
+}
+}
+
+/*a new responsive css start here*/
+@media only screen and (max-width: 480px){
+
+/*home page responsive css start here*/    
+
+.right-top-request { float: right; margin-top:-28px;}
+.top-social-media li {margin-left: 13px;}
+
+.right-top-request .nav {padding-right: 0px;} 
+
+.nab-bg-color a.navbar-brand h2 {font-size:24px;}
+.nab-bg-color a.navbar-brand h2 strong { font-size:24px; }
+.navbar-toggler {background:#012d68;}
+span.navbar-toggler-icon i {color:#fff;}
+
+.navbar-toggler-icon {display: contents;}
+.nab-bg-color {padding:0px 0px 0px;}
+.mai-banner img { height:300px; object-fit: cover;}
+
+.main-banner .bannerUpcontant {top: 25%;}
+
+.banner-one__title { font-size:27px; }
+.block-title__title { font-size:27px; }
+
+.about-two {padding:0px 0px 40px 0px;}
+
+.about-two__single-wrap { margin-bottom: 20px;}
+.about-two__image {margin: 40px 0px 0px 0px;}
+
+.course-one {margin-top: 30px;}
+.course-one__title { font-size:20px; }
+.video-two__title {  font-size: 25px; margin-bottom: 20px;}
+.video-two .thm-btn {padding: 15px 50px;}
+.video-two__popup {margin:90px 0px 0px 0px}
+
+.blog_style1 .blog_content { height:auto !important; }
+.section.pb_70 {padding: 25px 0;}
+
+.blog_post {margin-bottom:40px;}
+
+.testimonials-section {margin:-20px 0px 0px 0px; padding: 20px 0px 0px 0px;}
+
+
+.about-two__image > img { width:100%; }    
+.about-two__image:before {width: 170px; height: 170px; border:8px solid#fff;}
+.about-two__count {width: 100px; height: 100px;}
+.about-two__count-text {font-size:8px;}   
+.about-two__count span {font-size:25px;} 
+.about-two__count:before {top: 5px; left: 5px; right: 5px; bottom: 5px;}
+
+.about-two__image-dots { width: 165px; height:165px;}
+
+.how-udemy-works__icon {margin-left: 0px;}
+span.how-udemy-works__icon.udi.udi-right_talk img {margin-left: 3px;}
+span.how-udemy-works__icon.udi.udi-timeless img {margin-left: 6px;}
+
+.video-two__scratch {top: -19%; width: 100%;}
+
+.footer-widget__link {padding-right: 0px; left: 0px;}
+.footer-widget__gallery {left: 0px; padding-right: 0px;}
+.footer-widget__title {margin-bottom: 18px;}
+
+.footer-widget {padding-top: 20px; padding-bottom: 20px;}
+.footer-widget__btn-block {margin-top: 10px;}
+
+/*home page responsive css end here*/  
+
+
+/*about us page responsive css start here*/  
+
+.about-two img { width:100%;} 
+.abt-heading {margin:10px 0px 0px 0px}
+
+.inner-banner__title {font-size:44px !important; margin-bottom: -12px !important;}
+
+/*about us page responsive css end here*/  
+
+.divider-line {margin:20px 0px 40px 0px;}
+
+
+.single-contact-field {margin: 10px 0px 20px 0px; text-align: center;}
+
+
+.form-signup {padding: 10px; margin: 40px 0px 0px 0px;}
+
+.offset-3 {margin-left: 0%;}
+
+
+
+
+}
+
+
+
+@media only screen and (min-width:480px) and (max-width:576px){
+.right-top-request .nav {margin: -29px 0px 0px 0px;}
+
+.navbar-toggler {background:#012d68; padding: 7px 8px 8px 8px;}
+span.navbar-toggler-icon i {color:#fff;}
+.navbar-toggler-icon { width:inherit; height:inherit; }
+
+.mai-banner .bannerUpcontant {top:53%;}
+
+
+span.how-udemy-works__icon.udi.udi-right_talk img {margin-left: 13px;}
+span.how-udemy-works__icon.udi.udi-timeless img {margin-left: 8px;}
+
+
+.about-two__count {width: 150px; height: 150px; transform: translateX(-10%);}
+.about-two__image-dots {width: 167px;}
+.about-two__image > img {width:100%;}
+
+ .course-one__image > img {width:520% !important; object-fit:cover;}
+
+.video-two__scratch {top: -19%;}
+
+.my-auto .video-two__popup {margin: 55px 0px 0px 0px;}
+
+.blog_style1 .blog_img img {object-fit:cover;}
+
+.testimonials-section {padding: 30px 0;}
+
+
+.footer-widget__link {left: 0px;}
+.footer-widget__gallery {left: 0px;}
+
+.single-contact-field {margin: 10px 0px 20px 0px; text-align: center;}
+
+.offset-3 { margin-left: 0%;}
+
+
+}
+
+
+
+
+@media only screen and (min-width:576px) and (max-width:768px) {
+
+.navbar-toggler {background:#012d68; padding:8px 8px 0px 8px;}
+span.navbar-toggler-icon i {color:#fff;}
+
+.bannerUpcontant {top:50%;}
+
+.justify-content-sm-center {margin: 30px 0px 0px 0px;}
+
+.course-one__single a { font-size:18px; }
+
+.about-two img { width:100%; }
+
+.divider-line {margin:20px 0px 40px 0px;}
+.single-contact-field {margin: 10px 0px 20px 0px; text-align: center;}
+
+.form-signup {padding: 10px; margin: 40px 0px 0px 0px;}
+
+.offset-3 {margin-left: 0%;}
+
+.video-two__popup {margin: 0px 0px 0px -40px;}
+
+.course-one__image > img {width:590px !important; }
+
+.footer-widget__link {left: 0px;}
+.footer-widget__gallery {left: 0px;}
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:992px) {
+.banner-one__title {font-size: 50px;}
+.bannerUpcontant {top:22%;} 
+.how-udemy-works__col {padding: 20px 5px;}
+.justify-content-sm-center {margin: 25px 0px 0px 0px;}
+.about-two__image-dots {width: 270px;}
+.navigation .nav-item a {margin-right: 10px;}
+
+.about-two img { width:100%; }
+
+.course-one__image > img { width:100%; }
+.divider-line {margin:20px 0px 40px 0px;}
+.single-contact-field {margin: 10px 0px 20px 0px; text-align: center;}
+
+.form-signup {padding: 10px; margin: 40px 0px 0px 0px;}
+
+.offset-3 {margin-left: 0%;}
+
+
+
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1024px) {
+
+.about-two__image-dots {width: 380px;}
+
+.justify-content-sm-center {margin: 50px 0px 0px 0px;}
+
+.about-two img {width:100%;}
+
+.divider-line {margin:20px 0px 40px 0px;}
+
+.single-contact-field {margin: 10px 0px 20px 0px; text-align: center;}
+
+.form-signup {padding: 10px; margin: 40px 0px 0px 0px;}
+
+.offset-3 {margin-left: 0%;}
+
+
+}
+
+
+@media only screen and (max-width:1600px){ 
+.navigation .nav-item a {margin-right: 7px;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*a new responsive css start end here*/
